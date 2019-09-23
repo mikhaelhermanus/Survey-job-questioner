@@ -1,0 +1,56 @@
+-- phpMyAdmin SQL Dump
+-- version 4.6.5.2
+-- https://www.phpmyadmin.net/
+--
+-- Host: 127.0.0.1
+-- Generation Time: 04 Jun 2017 pada 06.18
+-- Versi Server: 10.1.21-MariaDB
+-- PHP Version: 7.1.1
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Database: `suvey`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Struktur dari tabel `survey1`
+--
+
+CREATE TABLE `survey1` (
+  `Nama` text NOT NULL,
+  `Isi1` text NOT NULL,
+  `Isi2` text NOT NULL,
+  `Isi3` text NOT NULL,
+  `Isi4` text NOT NULL,
+  `Isi5` text NOT NULL,
+  `Isi6` text NOT NULL,
+  `Isi7` text NOT NULL,
+  `Isi8` text NOT NULL,
+  `Isi9` text NOT NULL,
+  `Kesimpulan` text
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data untuk tabel `survey1`
+--
+
+INSERT INTO `survey1` (`Nama`, `Isi1`, `Isi2`, `Isi3`, `Isi4`, `Isi5`, `Isi6`, `Isi7`, `Isi8`, `Isi9`, `Kesimpulan`) VALUES
+('Budiana', 'Biologi', 'Mengamati', 'Pemberani', 'Menulis', 'Creator', 'Meminta bantuan teman', 'Membaca Buku', 'Pedesaan', 'Melakukan penelitian', 'Perawat'),
+('Ariska', 'Komputer', 'Menciptakan', 'Pemalu', 'Membaca', 'Pemikir', 'Menyelesaikan masalah', 'Membaca Buku', 'Pegunungan', 'Melakukan penelitian', 'Arsitek'),
+('Abimana', 'Kimia', 'Mengamati', 'Pemalu', 'Membaca', 'Orator', 'Masa Bodoh', 'Menjelajahi internet', 'Pegunungan', 'Melakukan penelitian', 'Arsitek'),
+('Rama', 'Biologi', 'Menciptakan', 'Pemberontak', 'Travelling', 'Pemikir', 'Meminta bantuan teman', 'Membaca Jurnal', 'Pegunungan', 'Melakukan penelitian', 'Kimiawan'),
+('Ariana', 'Kimia', 'Mengamati', 'Pemalu', 'Menulis', 'Creator', 'Menyelesaikan masalah', 'Menjelajahi internet', 'Pantai', 'Melakukan penelitian', 'Perawat');
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

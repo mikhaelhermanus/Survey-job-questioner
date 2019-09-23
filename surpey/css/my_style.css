@@ -1,0 +1,118 @@
+footer  {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+body  {
+	background-color: #FFFFFF;
+	margin-top: 46px;
+	margin-bottom: 0px;
+}
+
+
+.thumbnail .caption  {
+	color: rgba(253,253,255,1.00);
+}
+
+.carousel-caption h2 strong {
+	color: rgba(195,78,80,1.00);
+	margin-left: -21px;
+}
+.navbar-form.navbar-left .form-group .form-control {
+}
+
+.item .carousel-caption h2 {
+	color: rgba(244,165,65,1.00);
+	margin-left: 79px;
+	margin-top: 0px;
+	margin-bottom: -4px;
+}
+.navbar.navbar-basic .container-fluid .btn.btn-warning {
+	margin-left: 358px;
+	margin-top: -71px;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(224,178,101,1.00) 58.55%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(224,178,101,1.00) 58.55%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(224,178,101,1.00) 58.55%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(224,178,101,1.00) 58.55%);
+}
+
+
+.item .carousel-caption h1 {
+	color: rgba(166,118,49,1.00);
+	padding-bottom: 0px;
+	margin-left: 98px;
+}
+
+
+
+
+.thumbnail   {
+	background-color: rgba(133,206,252,1.00);
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(111,197,248,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(111,197,248,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(111,197,248,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(111,197,248,1.00) 100%);
+}
+.container-fluid .navbar.navbar-default {
+	margin-top: -60px;
+	padding-bottom: 1px;
+}
+.navbar.navbar-default .container-fluid #defaultNavbar1 {
+	background-color: #FFF9F9;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 59.59%,rgba(177,177,177,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 59.59%,rgba(177,177,177,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 59.59%,rgba(177,177,177,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 59.59%,rgba(177,177,177,1.00) 100%);
+}
+
+.container-fluid .navbar.navbar-default .container-fluid {
+	padding-left: 10px;
+}
+
+
+.container-fluid .navbar.navbar-inverse {
+	margin-top: -39px;
+}
+.navbar.navbar-basic .container-fluid #inverseNavbar1 {
+	background-color: rgba(111,197,248,1.00);
+	margin-right: -30px;
+	margin-left: -29px;
+	margin-top: -23px;
+	padding-left: 0px;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(111,197,248,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(111,197,248,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(111,197,248,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(111,197,248,1.00) 100%);
+}
+#defaultNavbar1 .navbar-form.navbar-left .btn.btn-default {
+}
+
+.navbar.navbar-default .container-fluid #defaultNavbar1 {
+	padding-left: 14px;
+	padding-right: 19px;
+}
+footer a .btn.btn-warning {
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+
+}
+.navbar-form.navbar-left .form-group img {
+	margin-left: 77px;
+	color: #FFFFFF;
+}
+a h4 b {
+	color: #0200FF;
+}
+
+.navbar-form.navbar-left .form-group .form-control {
+	margin-left: 260px;
+}
+#defaultNavbar1 .navbar-form.navbar-left .form-group {
+	margin-left: 204px;
+}

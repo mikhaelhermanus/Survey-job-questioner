@@ -1,0 +1,101 @@
+@charset "utf-8";
+.container-fluid .navbar-header .navbar-brand {
+	color: rgba(35,82,124,1.00);
+}
+.panel.panel-default .panel-heading {
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(224,178,101,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(224,178,101,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(224,178,101,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(224,178,101,1.00) 100%);
+}
+
+.navbar.navbar-default .container-fluid #defaultNavbar1 {
+	background-color: rgba(111,197,248,1.00);
+	margin-left: -17px;
+	margin-right: -17px;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(111,197,248,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(111,197,248,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(111,197,248,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(111,197,248,1.00) 100%);
+}
+
+.navbar.navbar-default .container-fluid #defaultNavbar {
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(188,188,188,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(188,188,188,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(188,188,188,1.00) 100%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(188,188,188,1.00) 100%,rgba(255,0,0,1.00) 100%);
+}
+#defaultNavbar2 {
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 66.84%,rgba(163,163,163,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 66.84%,rgba(163,163,163,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 66.84%,rgba(163,163,163,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 66.84%,rgba(163,163,163,1.00) 100%);
+}
+
+
+.panel.panel-default .panel-heading .btn.btn-default {
+	background-color: rgba(255,150,0,1.00);
+	color: rgba(255,255,255,1.00);
+}
+.panel.panel-default img {
+	float: right;
+	margin-top: -268px;
+	margin-right: 42px;
+}
+
+
+.panel.panel-default p {
+}
+body p {
+	background-color: rgba(112,112,112,1.00);
+	color: rgba(255,255,255,1.00);
+	text-align: left;
+}
+.pagination li #submit {
+	margin-left: 113px;
+	text-decoration: none;
+	text-align: left;
+	padding-top: 0px;
+	margin-bottom: -23px;
+	margin-right: 0px;
+}
+.container-fluid #defaultNavbar2 {
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 59.59%,rgba(177,177,177,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 59.59%,rgba(177,177,177,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 59.59%,rgba(177,177,177,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 59.59%,rgba(177,177,177,1.00) 100%);
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.navbar-form.navbar-left .form-group img {
+	margin-left: 244px;
+}
+.panel-body {
+
+}
+
+.navbar-form.navbar-left .form-group .form-control {
+	margin-left: 260px;
+}
+body p {
+}
+a h4 b {
+	color: #0005FF;
+}
+.navbar-form.navbar-left .form-group .form-control {
+	margin-left: 262px;
+	margin-top: 8px;
+	margin-right: 8px;
+	margin-bottom: 8px;
+}
+#defaultNavbar2 .navbar-form.navbar-left .btn.btn-default {
+	margin-left: 0px;
+}
+.form-group img {
+	margin-bottom: 0px;
+}
